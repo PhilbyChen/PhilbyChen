@@ -8,7 +8,7 @@ BUT I **DO NOT** like this major,
 
 I like **Physics**, **Aerospace** and **Cosmology!** 
 
-🌱I am currently making efforts to shift towards these fields when I enter the graduate program.
+I am currently making efforts to shift towards these fields when I enter the graduate program.
 
 ## Emails
 academic: Zhiyuan.Chen@student.rau.ac.uk
@@ -23,6 +23,8 @@ Latex
 Fortran (beginning)
 
 Cooking 😄
+
+tennis 🎾
 <!--
 **PhilbyChen/PhilbyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
