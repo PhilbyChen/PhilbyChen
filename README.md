@@ -6,14 +6,14 @@
 - I plan to pursue a master's degree in these fields and am actively building my skills.
 
 ### Currently
-- **Physics foundation**:
--Mechanics · Electrodynamics · Quantum Mechanics · Optics · Thermo/StatPhys
+-**Physics foundation**:
+Mechanics · Electrodynamics · Quantum Mechanics · Optics · Thermo/StatPhys
 
 -**Next**:
--Astrophysics · GR · Stellar Evolution · Cosmology
+Astrophysics · GR · Stellar Evolution · Cosmology
 
 -**Practice**:
--Stellar spectroscopy · FITS data analysis · Blackbody fitting
+Stellar spectroscopy · FITS data analysis · Blackbody fitting
 
 ### Skills
 - Python (NumPy, Pandas, Astropy, Matplotlib)
