@@ -1,30 +1,25 @@
-## Hey there 👋
-This is Zhiyuan Chen (or you can call me Philby)
+## Hey there 👋 I'm Zhiyuan Chen (Philby)
 
-## Basic Info 
-I am a current undergraduate student majoring in Land Resources Management at SDAU.
+### About Me
+- Undergraduate at SDAU, majoring in Land Resources Management.
+- BUT I discovered my true passion lies in **Physics, Aerospace, and Astronomy**.
+- I plan to pursue a master's degree in these fields and am actively building my skills.
 
-BUT I **DO NOT** like this major,
+### Currently
+- Learning **astronomical data analysis** (spectroscopy, FITS, blackbody fitting).
+- Working on small projects with Python and Astropy (see my repos below).
 
-I like **Physics**, **Aerospace** and **Astronomy!** 
+### Skills
+- Python (NumPy, Pandas, Astropy, Matplotlib)
+- LaTeX / Markdown
+- Tennis & Cooking 🍳
 
-I hope to be able to enter these fields when I progress to the master's degree stage.
+### Contact
+- Academic email: `Zhiyuan.Chen@student.rau.ac.uk`
 
-But I am so clumpsy. Sometimes I feel like I’m not smart enough for them.
+---
 
-## Emails
-Academic and Work Email: Zhiyuan.Chen@student.rau.ac.uk
-
-Personal Email: 2084118196@qq.com
-
-## Skills
-Python (numpy pandas astropy)
-
-Latex & markdown
-
-tennis 
-
-Cooking 😄
+*I know these fields are challenging, but every small step forward counts.*
 <!--
 **PhilbyChen/PhilbyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
