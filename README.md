@@ -2,12 +2,18 @@
 
 ### About Me
 - Undergraduate at SDAU, majoring in Land Resources Management.
-- BUT I discovered my true passion lies in **Physics, Aerospace, and Astronomy**.
+- But I discovered my true passion lies in **Physics, Aerospace, and Astronomy**.
 - I plan to pursue a master's degree in these fields and am actively building my skills.
 
 ### Currently
-- Learning **astronomical data analysis** (spectroscopy, FITS, blackbody fitting).
-- Working on small projects with Python and Astropy (see my repos below).
+- **Physics foundation**:
+-Mechanics · Electrodynamics · Quantum Mechanics · Optics · Thermo/StatPhys
+
+-**Next**:
+-Astrophysics · GR · Stellar Evolution · Cosmology
+
+-**Practice**:
+-Stellar spectroscopy · FITS data analysis · Blackbody fitting
 
 ### Skills
 - Python (NumPy, Pandas, Astropy, Matplotlib)
