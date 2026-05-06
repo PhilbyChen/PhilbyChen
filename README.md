@@ -9,9 +9,6 @@
 -**Physics foundation**:
 Mechanics · Electrodynamics · Quantum Mechanics · Optics · Thermo/StatPhys
 
--**Next**:
-Astrophysics · GR · Stellar Evolution · Cosmology
-
 -**Practice**:
 Stellar spectroscopy · FITS data analysis · Blackbody fitting
 
