@@ -1,7 +1,7 @@
 ## Hey there 👋 I'm Zhiyuan Chen (Philby)
 
 ### About Me
-- Undergraduate at SDAU, majoring in Land Resources Management.
+- Undergraduate at SDAU & RAU, majoring in Land Resources Management.
 - But I discovered my true passion lies in **Physics, Aerospace, and Astronomy**.
 - I plan to pursue a master's degree in these fields and am actively building my skills.
 
@@ -20,9 +20,6 @@ Stellar spectroscopy · FITS data analysis · Blackbody fitting
 ### Contact
 - Academic email: `Zhiyuan.Chen@student.rau.ac.uk`
 
----
-
-*I know these fields are challenging, but every small step forward counts.*
 <!--
 **PhilbyChen/PhilbyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
