@@ -1,55 +1,46 @@
 # Zhiyuan Chen (Philby)
 
-I am an undergraduate student majoring in **Land Resources Management**, now working toward a transition into **astrophysics**.
+I am an undergraduate student majoring in **Land Resources Management**, currently preparing for a transition into **astronomy and astrophysics**.
 
-My undergraduate major is not physics, so this page records my attempt to build the missing background step by step: mathematics, theoretical physics, and small projects with real astronomical data.
-
-At the moment, I am especially interested in **observational astrophysics**, **stellar spectroscopy**, and **astronomical data analysis**.
+My academic background is not originally in physics, so I am building the missing foundation step by step through self-study in mathematics, theoretical physics, and small computational projects using astronomical data.
 
 ---
 
-## What I am studying
+## Current Focus
 
-### Physics
+I am currently strengthening my background in:
 
+- Mathematics
 - Classical mechanics
 - Electrodynamics
 - Quantum mechanics
-- Optics
 - Thermodynamics and statistical physics
+- Optics
+- Modern astrophysics
 
-My current emphasis is on **electrodynamics** and its connection with radiation, spectra, and observational astrophysics.
-
-### Astrophysics
-
-I am working through modern astrophysics with a focus on:
-
-- stellar spectra
-- blackbody radiation
-- radiative processes
-- stellar structure and evolution
-- astronomical data analysis
-- survey data and statistical inference
+I am especially interested in the connection between **physical theory**, **observational data**, and **astronomical phenomena**.
 
 ---
 
-## Projects
+## Featured Projects
 
 ### Stellar Spectroscopy Project
 
-This is my first attempt to connect textbook ideas about blackbody radiation, Balmer lines, and stellar classification with an actual spectrum.
+My first project using real stellar spectral data. It includes FITS data reading, spectrum visualization, blackbody fitting, Balmer-line measurements, and a basic attempt at spectral classification.
 
-The project includes FITS data reading, spectrum visualization, continuum normalization, blackbody fitting, Balmer-line equivalent width measurement, and a simple luminosity-class estimate from line broadening.
+Repository: [stellar_spectroscopy_project](https://github.com/PhilbyChen/stellar_spectroscopy_project)
+
+---
 
 ### Yale Astro 330 Labs
 
-A collection of practice projects based on astronomical data analysis exercises. These labs helped me become more familiar with FITS files, photometry, spectroscopy, MCMC, and Python-based scientific computing.
+Practice projects based on astronomical data analysis exercises, including FITS handling, photometry, spectroscopy, MCMC, and Python-based scientific computing.
 
-### PM2.5 and Lung Cancer Data Analysis
+Repository: [Yale_Astro330_LABS](https://github.com/PhilbyChen/Yale_Astro330_LABS)
 
-An earlier data analysis project outside astrophysics. I keep it here because it reflects my first training in data cleaning, statistical analysis, visualization, and reproducible workflow.
+---
 
-## Tools I use
+## Technical Skills
 
 - Python
 - NumPy, Pandas, SciPy
@@ -61,13 +52,11 @@ An earlier data analysis project outside astrophysics. I keep it here because it
 
 ---
 
-## Current direction
+## Direction
 
-I am preparing for graduate study in astrophysics, with a particular interest in the path from physical theory to observational data:
+At this stage, I am mainly trying to build a solid foundation for graduate study in astrophysics.
 
-**electrodynamics → radiation → spectra → astronomical data analysis**
-
-My near-term goal is to make my projects more reproducible and more research-like, rather than just coding exercises.
+This page is a record of that process: learning physics, working with astronomical data, and gradually turning scattered interests into more serious research preparation.
 
 ---
 
