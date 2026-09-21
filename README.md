@@ -1,79 +1,141 @@
 # Herzlich willkommen！Ich bin Philby Chen.
 
-I am an undergraduate student majoring in **Land Resources Management**, currently preparing for a transition into **astronomy and astrophysics**.
+I am anUndergraduate student in **Land Resources Management**  
+Preparing for graduate study in **Astronomy and Astrophysics**
 
-My academic background is not originally in physics, so I am building the missing foundation step by step through self-study in mathematics, theoretical physics, and small computational projects using astronomical data.
+Email: [Zhiyuan.Chen@student.rau.ac.uk](mailto:Zhiyuan.Chen@student.rau.ac.uk)
 
 ---
 
-## Current Focus
+## ABOUT ME
 
-I am currently strengthening my background in:
+I had been interested in astronomy and physics since childhood, but I did not have the chance to study physics at university, and years of exam-oriented study had gradually pushed that interest into the background. During college, as I began to realize that my original major was not the path I wanted to follow, I returned to physics and found that I genuinely enjoyed learning it; that experience eventually led me to take this long-standing interest seriously and make astronomy the focus of my future study and career.
 
-- Mathematics
-- Classical mechanics
+I am now building the mathematical, physical, and computational background needed for graduate study in astrophysics through systematic self-study and small projects using real astronomical data.
+
+---
+
+## EDUCATION
+
+**Undergraduate — Land Resources Management**
+
+My undergraduate training is outside physics, so much of my preparation for astronomy has been carried out independently alongside my degree.
+
+---
+
+## ACADEMIC PREPARATION
+
+### Physics
+
+- Classical Mechanics
 - Electrodynamics
-- Quantum mechanics
-- Thermodynamics and statistical physics
+- Quantum Mechanics
+- Thermodynamics and Statistical Physics
 - Optics
-- Modern astrophysics
+- Modern Astrophysics
 
-I am especially interested in the connection between **physical theory**, **observational data**, and **astronomical phenomena**.
+### Mathematics
+
+- Calculus
+- Linear Algebra
+- Probability and Statistics
+- Ordinary Differential Equations
+- Complex Analysis
+- Mathematical Methods for Physics
+
+My current focus is on developing a solid undergraduate-level foundation in theoretical physics while gradually moving toward more advanced astrophysics.
 
 ---
 
-## Featured Projects
+## RESEARCH INTERESTS
+
+I am broadly interested in **astrophysics and computational astronomy**, especially problems that connect physical theory with observational data.
+
+Current interests include:
+
+- Stellar astrophysics
+- Astronomical spectroscopy
+- Computational astrophysics
+- Physical interpretation of astronomical observations
+- Statistical and numerical methods in astronomy
+
+My interests are still developing as I continue to build a broader foundation in astrophysics.
+
+---
+
+## SELECTED PROJECTS
 
 ### Stellar Spectroscopy Project
 
-My first project using real stellar spectral data. It includes FITS data reading, spectrum visualization, blackbody fitting, Balmer-line measurements, and a basic attempt at spectral classification.
+**Independent Project**
 
-Repository: [stellar_spectroscopy_project](https://github.com/PhilbyChen/stellar_spectroscopy_project)
+My first project using real stellar spectral data.
+
+- Read and processed stellar spectra stored in FITS format.
+- Visualized spectra and examined continuum shapes and absorption features.
+- Applied blackbody fitting to estimate basic stellar continuum properties.
+- Measured Balmer absorption lines.
+- Made a preliminary attempt at spectral classification based on spectral features.
+- Used the project to explore how basic stellar physics appears in observational data.
+
+Repository:  
+[stellar_spectroscopy_project](https://github.com/PhilbyChen/stellar_spectroscopy_project)
 
 ---
 
 ### Yale Astro 330 Labs
 
-Practice projects based on astronomical data analysis exercises, including FITS handling, photometry, spectroscopy, MCMC, and Python-based scientific computing.
+**Astronomical Data Analysis Practice**
 
-Repository: [Yale_Astro330_LABS](https://github.com/PhilbyChen/Yale_Astro330_LABS)
+A collection of computational exercises based on materials from Yale Astro 330.
 
----
+- Worked with astronomical FITS data using Python and Astropy.
+- Practiced photometric and spectroscopic data analysis.
+- Used scientific visualization to inspect astronomical observations.
+- Worked with parameter estimation and Markov Chain Monte Carlo (MCMC).
+- Gained experience with Python-based scientific computing and reproducible analysis.
 
-## Technical Skills
-
-- Python
-- NumPy, Pandas, SciPy
-- Astropy
-- Matplotlib
-- FITS data handling
-- LaTeX and Markdown
-- Basic curve fitting, error analysis, and MCMC
+Repository:  
+[Yale_Astro330_LABS](https://github.com/PhilbyChen/Yale_Astro330_LABS)
 
 ---
 
-## Direction
+## TECHNICAL SKILLS
 
-At this stage, I am mainly trying to build a solid foundation for graduate study in astrophysics.
+**Programming:** Python
 
-This page is a record of that process: learning physics, working with astronomical data, and gradually turning scattered interests into more serious research preparation.
+**Scientific Computing:** NumPy, Pandas, SciPy
+
+**Astronomy:** Astropy, FITS data handling
+
+**Data Analysis:** Curve fitting, error analysis, basic statistical inference, MCMC
+
+**Visualization:** Matplotlib
+
+**Scientific Writing:** LaTeX, Markdown
+
+**Tools:** Git, GitHub
 
 ---
 
-## Contact
+## CURRENT DIRECTION
 
-Email: Zhiyuan.Chen@student.rau.ac.uk
-<!--
-**PhilbyChen/PhilbyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At this stage, I am mainly preparing for graduate study in astrophysics.
 
-Here are some ideas to get you started:
+My current priorities are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- strengthening the core undergraduate physics curriculum;
+- developing a systematic understanding of modern astrophysics;
+- gaining more experience with real astronomical data;
+- improving scientific programming and numerical methods;
+- moving gradually from coursework-oriented exercises toward more independent scientific projects.
+
+This GitHub profile serves as a record of that process.
+
+---
+
+## CONTACT
+
+**Email:** [Zhiyuan.Chen@student.rau.ac.uk](mailto:Zhiyuan.Chen@student.rau.ac.uk)
+
+**GitHub:** [PhilbyChen](https://github.com/PhilbyChen)
