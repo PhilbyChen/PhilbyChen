@@ -12,16 +12,17 @@ I am now building the mathematical, physical, and computational background neede
 
 **Physics**
 
-- **Classical mechanics:** Lagrangian mechanics, constraints, and Noether's theorem.
-- **Electrodynamics:** Griffiths' *Introduction to Electrodynamics* and Zangwill's *Modern Electrodynamics* — my main focus so far.
-- **Quantum mechanics:** Griffiths' *Introduction to Quantum Mechanics*, with some reading from Sakurai's *Modern Quantum Mechanics*.
-- **Thermodynamics & statistical physics:** introductory study, with more systematic work planned.
-- **General relativity:** Lancaster & Blundell's *General Relativity for the Gifted Amateur* — just getting started.
-- **Astrophysics:** Carroll & Ostlie's *An Introduction to Modern Astrophysics*.
+- **Classical & Analytical Mechanics:** Gao Xian, *Classical Mechanics* (《经典力学》)
+- **Electrodynamics:** Griffiths, *Introduction to Electrodynamics*; Zangwill, *Modern Electrodynamics*
+- **Quantum Mechanics:** Griffiths, *Introduction to Quantum Mechanics*; Sakurai, *Modern Quantum Mechanics*
+- **General Relativity:** Lancaster & Blundell, *General Relativity for the Gifted Amateur*; Hartle, *Gravity*
+- **Astrophysics:** Carroll & Ostlie, *An Introduction to Modern Astrophysics*
 
 **Mathematics**
 
-Calculus, linear algebra, probability and statistics, complex analysis, and mathematical methods for physics. I've also been reading Axler's *Linear Algebra Done Right* and Gu Qiao's *Mathematical Methods for Physics*.
+- Axler, *Linear Algebra Done Right*
+- Gu Qiao, *Mathematical Methods for Physics* (《数学物理方法》)
+- Frankel, *The Geometry of Physics*
 
 ## Interests
 
